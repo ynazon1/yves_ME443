@@ -1,0 +1,3 @@
+Make a text file called results.txt, and describe how your robot worked - did you use one or more sliders in the app? What were they for? What information was sent to the PIC? How did the PIC use that information? Add any other relevant information
+
+My robot took the COM from the app and would constantly turn each wheel to get the COM value at 320. If the robot was under 320 it would turn to the right and if it was over it would turn left. This made a walking like motion that moved my bot forward. I only used 1 slider that controlled the threshold of green pixels. This worked well in a controlled environment but with the changing light in the Willens Wing my idea didn't work as well. A combination of red and green pixel sliders probably would have been better.
